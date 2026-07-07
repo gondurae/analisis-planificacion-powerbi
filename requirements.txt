@@ -1,0 +1,5 @@
+# Dependencias del motor de análisis
+pandas>=2.0
+openpyxl>=3.1
+# Solo para los módulos heredados de gráficas estáticas (analizar.py, visualizacion.py)
+# matplotlib>=3.7
